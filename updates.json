@@ -17,6 +17,10 @@
         {
           "version": "0.1.6",
           "update_link": "https://github.com/jaaoStudio/twitch-streak-releases/releases/download/v0.1.6/twitch_streak-0.1.6.xpi"
+        },
+        {
+          "version": "0.1.7",
+          "update_link": "https://github.com/jaaoStudio/twitch-streak-releases/releases/download/v0.1.7/twitch_streak-0.1.7.xpi"
         }
       ]
     }
